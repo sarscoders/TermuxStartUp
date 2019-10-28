@@ -14,4 +14,4 @@ pkg install php
 echo "installing nmap..."
 pkg install nmap
 echo "###########"
-echo "thanks for using"
+echo "visit at sarscoders.com to get more intrative things"
